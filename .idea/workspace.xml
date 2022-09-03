@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bda6bed5-2c79-411f-9e7c-dfafacf5d155" name="Changes" comment="feat: change idea settings" />
+    <list default="true" id="bda6bed5-2c79-411f-9e7c-dfafacf5d155" name="Changes" comment="feat: add idea config">
+      <change afterPath="$PROJECT_DIR$/967-numbers-with-same-consecutive-differences/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,12 +51,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.index.js (1)">
+    <configuration name="index.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/967-numbers-with-same-consecutive-differences/index.js" working-dir="$PROJECT_DIR$/967-numbers-with-same-consecutive-differences">
+      <method v="2" />
+    </configuration>
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/417-pacific-atlantic-water-flow/index.js" working-dir="$PROJECT_DIR$/417-pacific-atlantic-water-flow">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.index.js (1)" />
         <item itemvalue="Node.js.index.js" />
       </list>
     </recent_temporary>
@@ -68,6 +76,7 @@
       <workItem from="1661941488043" duration="167000" />
       <workItem from="1661941707538" duration="5707000" />
       <workItem from="1661976152091" duration="4432000" />
+      <workItem from="1662211616317" duration="1761000" />
     </task>
     <task id="LOCAL-00001" summary="feat: init npm project">
       <created>1661982031459</created>
@@ -90,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661982382473</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: add idea config">
+      <created>1662211723662</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662211723662</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: add idea config">
+      <created>1662211732879</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662211732879</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +135,7 @@
     <MESSAGE value="feat: init idea project" />
     <MESSAGE value="feat: solve Pacific Atlantic Water Flow (417)" />
     <MESSAGE value="feat: change idea settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: change idea settings" />
+    <MESSAGE value="feat: add idea config" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add idea config" />
   </component>
 </project>
