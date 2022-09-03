@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bda6bed5-2c79-411f-9e7c-dfafacf5d155" name="Changes" comment="feat: solve Pacific Atlantic Water Flow (417)">
-      <change afterPath="$PROJECT_DIR$/417-pacific-atlantic-water-flow/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bda6bed5-2c79-411f-9e7c-dfafacf5d155" name="Changes" comment="feat: change idea settings" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,17 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/alexander/projects/personal/leetcode",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/alexander/projects/personal/leetcode&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/417-pacific-atlantic-water-flow/index.js" working-dir="$PROJECT_DIR$/417-pacific-atlantic-water-flow">
       <method v="2" />
@@ -70,7 +67,7 @@
       <updated>1661941486867</updated>
       <workItem from="1661941488043" duration="167000" />
       <workItem from="1661941707538" duration="5707000" />
-      <workItem from="1661976152091" duration="4201000" />
+      <workItem from="1661976152091" duration="4432000" />
     </task>
     <task id="LOCAL-00001" summary="feat: init npm project">
       <created>1661982031459</created>
@@ -86,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661982043710</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: change idea settings">
+      <created>1661982382473</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661982382473</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +111,7 @@
     <MESSAGE value="feat: init npm project" />
     <MESSAGE value="feat: init idea project" />
     <MESSAGE value="feat: solve Pacific Atlantic Water Flow (417)" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: solve Pacific Atlantic Water Flow (417)" />
+    <MESSAGE value="feat: change idea settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: change idea settings" />
   </component>
 </project>
