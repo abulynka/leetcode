@@ -6,6 +6,7 @@
   "scripts": {
     "417": "node ./417-pacific-atlantic-water-flow/index.js",
     "967": "node ./967-numbers-with-same-consecutive-differences/index.js",
+    "987": "node ./987-vertical-order-traversal-of-a-binary-tree/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
