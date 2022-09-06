@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bda6bed5-2c79-411f-9e7c-dfafacf5d155" name="Changes" comment="feat: add idea files into git">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/8205d6648fa98b565c1ee51481839d447043a78a" afterDir="false" />
+    <list default="true" id="bda6bed5-2c79-411f-9e7c-dfafacf5d155" name="Changes" comment="feat: add solution for Vertical Order Traversal of a Binary Tree (987)">
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/987-vertical-order-traversal-of-a-binary-tree/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8a20ddf04d694a22f1c8a1b1654cd27d8a2a03a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/429-n-ary-tree-level-order-traversal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/814-binary-tree-pruning/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
@@ -54,8 +56,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.index.js (1)">
+  <component name="RunManager" selected="Node.js.index.js (2)">
     <configuration name="index.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/967-numbers-with-same-consecutive-differences/index.js" working-dir="$PROJECT_DIR$/967-numbers-with-same-consecutive-differences">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/429-n-ary-tree-level-order-traversal/index.js" working-dir="$PROJECT_DIR$/429-n-ary-tree-level-order-traversal">
       <method v="2" />
     </configuration>
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/417-pacific-atlantic-water-flow/index.js" working-dir="$PROJECT_DIR$/417-pacific-atlantic-water-flow">
@@ -63,8 +68,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.index.js (1)" />
+        <item itemvalue="Node.js.index.js (2)" />
         <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.index.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +87,9 @@
       <workItem from="1661976152091" duration="4432000" />
       <workItem from="1662211616317" duration="3813000" />
       <workItem from="1662279089236" duration="6809000" />
-      <workItem from="1662287212769" duration="1205000" />
+      <workItem from="1662287212769" duration="1241000" />
+      <workItem from="1662360823751" duration="2292000" />
+      <workItem from="1662459896045" duration="4724000" />
     </task>
     <task id="LOCAL-00001" summary="feat: init npm project">
       <created>1661982031459</created>
@@ -132,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662279124229</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: add solution for Vertical Order Traversal of a Binary Tree (987)">
+      <created>1662294076119</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662294076119</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +172,7 @@
     <MESSAGE value="feat: add idea config" />
     <MESSAGE value="feat: Numbers With Same Consecutive Differences (967)" />
     <MESSAGE value="feat: add idea files into git" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add idea files into git" />
+    <MESSAGE value="feat: add solution for Vertical Order Traversal of a Binary Tree (987)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add solution for Vertical Order Traversal of a Binary Tree (987)" />
   </component>
 </project>
