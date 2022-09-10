@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bda6bed5-2c79-411f-9e7c-dfafacf5d155" name="Changes" comment="feat: add solution for Vertical Order Traversal of a Binary Tree (987)">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8a20ddf04d694a22f1c8a1b1654cd27d8a2a03a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/429-n-ary-tree-level-order-traversal/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/814-binary-tree-pruning/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib.js" afterDir="false" />
+    <list default="true" id="bda6bed5-2c79-411f-9e7c-dfafacf5d155" name="Changes" comment="feat: add lib file">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/606-construct-string-from-binary-tree/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
@@ -33,6 +30,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1996-the-number-of-weak-characters-in-the-game/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/417-pacific-atlantic-water-flow/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/429-n-ary-tree-level-order-traversal/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/606-construct-string-from-binary-tree/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/814-binary-tree-pruning/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/94-binary-tree-inorder-traversal/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/967-numbers-with-same-consecutive-differences/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/987-vertical-order-traversal-of-a-binary-tree/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/lib.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -89,7 +99,12 @@
       <workItem from="1662279089236" duration="6809000" />
       <workItem from="1662287212769" duration="1241000" />
       <workItem from="1662360823751" duration="2292000" />
-      <workItem from="1662459896045" duration="4724000" />
+      <workItem from="1662459896045" duration="5191000" />
+      <workItem from="1662537329790" duration="1399000" />
+      <workItem from="1662628195082" duration="2344000" />
+      <workItem from="1662659562127" duration="1181000" />
+      <workItem from="1662714249884" duration="821000" />
+      <workItem from="1662723042045" duration="1760000" />
     </task>
     <task id="LOCAL-00001" summary="feat: init npm project">
       <created>1661982031459</created>
@@ -147,7 +162,35 @@
       <option name="project" value="LOCAL" />
       <updated>1662294076119</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat: add solution for 429. N-ary Tree Level Order Traversal (/n-ary-tree-level-order-traversal/)">
+      <created>1662499363336</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662499363336</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: add solution for 814. Binary Tree Pruning (/binary-tree-pruning/)">
+      <created>1662499400399</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662499400399</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: add config">
+      <created>1662499476216</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662499476216</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: add lib file">
+      <created>1662499489880</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662499489880</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +216,10 @@
     <MESSAGE value="feat: Numbers With Same Consecutive Differences (967)" />
     <MESSAGE value="feat: add idea files into git" />
     <MESSAGE value="feat: add solution for Vertical Order Traversal of a Binary Tree (987)" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add solution for Vertical Order Traversal of a Binary Tree (987)" />
+    <MESSAGE value="feat: add solution for 429. N-ary Tree Level Order Traversal (/n-ary-tree-level-order-traversal/)" />
+    <MESSAGE value="feat: add solution for 814. Binary Tree Pruning (/binary-tree-pruning/)" />
+    <MESSAGE value="feat: add config" />
+    <MESSAGE value="feat: add lib file" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add lib file" />
   </component>
 </project>
