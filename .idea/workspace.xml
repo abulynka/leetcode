@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bda6bed5-2c79-411f-9e7c-dfafacf5d155" name="Changes" comment="feat: add lib file">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="bda6bed5-2c79-411f-9e7c-dfafacf5d155" name="Changes" comment="feat: add solution for problems/the-number-of-weak-characters-in-the-game">
+      <change afterPath="$PROJECT_DIR$/1996-the-number-of-weak-characters-in-the-game/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/606-construct-string-from-binary-tree/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +103,7 @@
       <workItem from="1662659562127" duration="1181000" />
       <workItem from="1662714249884" duration="821000" />
       <workItem from="1662723042045" duration="1760000" />
+      <workItem from="1662790044440" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="feat: init npm project">
       <created>1661982031459</created>
@@ -190,7 +189,42 @@
       <option name="project" value="LOCAL" />
       <updated>1662499489880</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="feat: add idea config">
+      <created>1662790238382</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662790238382</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: add sonarlint into gitignore">
+      <created>1662790265477</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662790265477</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: add solution for problems/binary-tree-inorder-traversal">
+      <created>1662790308724</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1662790308724</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat: add solution for problems/the-number-of-weak-characters-in-the-game">
+      <created>1662790335969</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1662790335969</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat: add solution for problems/construct-string-from-binary-tree">
+      <created>1662790364037</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1662790364037</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +246,6 @@
     <MESSAGE value="feat: init idea project" />
     <MESSAGE value="feat: solve Pacific Atlantic Water Flow (417)" />
     <MESSAGE value="feat: change idea settings" />
-    <MESSAGE value="feat: add idea config" />
     <MESSAGE value="feat: Numbers With Same Consecutive Differences (967)" />
     <MESSAGE value="feat: add idea files into git" />
     <MESSAGE value="feat: add solution for Vertical Order Traversal of a Binary Tree (987)" />
@@ -220,6 +253,11 @@
     <MESSAGE value="feat: add solution for 814. Binary Tree Pruning (/binary-tree-pruning/)" />
     <MESSAGE value="feat: add config" />
     <MESSAGE value="feat: add lib file" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add lib file" />
+    <MESSAGE value="feat: add idea config" />
+    <MESSAGE value="feat: add sonarlint into gitignore" />
+    <MESSAGE value="feat: add solution for problems/binary-tree-inorder-traversal" />
+    <MESSAGE value="feat: add solution for problems/the-number-of-weak-characters-in-the-game" />
+    <MESSAGE value="feat: add solution for problems/construct-string-from-binary-tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add solution for problems/construct-string-from-binary-tree" />
   </component>
 </project>
