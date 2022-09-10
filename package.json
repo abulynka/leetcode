@@ -9,6 +9,9 @@
     "987": "node ./987-vertical-order-traversal-of-a-binary-tree/index.js",
     "429": "node ./429-n-ary-tree-level-order-traversal/index.js",
     "814": "node ./814-binary-tree-pruning/index.js",
+    "606": "node ./606-construct-string-from-binary-tree/index.js",
+    "94": "node ./94-binary-tree-inorder-traversal/index.js",
+    "1996": "node ./1996-the-number-of-weak-characters-in-the-game/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
